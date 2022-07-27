@@ -1,0 +1,24 @@
+h1, h2 {
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: dodgerblue;
+}
+
+.body_main {
+    background-color: darkgray;
+    padding: 10px;
+}
+
+.box_main {
+    background-color: white;
+    padding-top: 10px ;
+}
+
+.box_sidebar {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
